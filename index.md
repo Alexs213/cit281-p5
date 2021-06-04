@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Project 5
 
-You can use the [editor on GitHub](https://github.com/Alexs213/cit281-p5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This weeks project was credit credit. Our professor gave us a good portion of the code and we had to finish the rest. This project was a bit different from the others since it was a Moster game. We had to figure out how to show each monsters life and after every attack if it would lose power or die.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After completing this project, you will:
 
-### Markdown
+Gain experience working with classes, including class constructors and methods
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gain experience interpreting existing code to design a new class, including constructor and methods
 
-```markdown
-Syntax highlighted code block
+Gain more experience working with code modules
 
-# Header 1
-## Header 2
-### Header 3
+Gain experience executing and debugging Node.js code using VSCode, including module breakpoints
 
-- Bulleted
-- List
+Gain more experience working with Array map() and forEach() methods
 
-1. Numbered
-2. List
+Gain experience working with the concept of a gaming loop
 
-**Bold** and _Italic_ and `Code` text
+Gain more experience working with objects and arrays
 
-[Link](url) and ![Image](src)
-```
+Here is a portion of my code I did. Unfortunately I was not able to complete the project.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alexs213/cit281-p5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Project5](p5.png)
